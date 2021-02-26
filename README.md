@@ -6,7 +6,7 @@ In that workshop, UniOR NLP Group participated in both English and Spanish subta
 We used different machine learning algorithms combined with strictly stylometric features, categories of emojis and a
 bunch of lexical features related to the fake news headlines vocabulary.
 
-Here you can find the used code and the submitted models.
+Here you can find the code used and the submitted models.
 
 ## Data
 
